@@ -1,18 +1,3 @@
-Here's my recommendation for your repository:
-
-## Repository Name
-
-**`zimplatsiq`** or **`zimplats-mining-intelligence`**
-
-## Repository Description (350 chars max)
-
-```
-9-year operational intelligence platform for Zimplats (FY2017-2025). Mining analytics dashboard revealing PGM production, financial trends, safety patterns & environmental data. Built with Chart.js. Identifies $26-57M annual addressable value through predictive intelligence.
-```
-
-## README.md
-
-```markdown
 # ZimplatsIQ · Mining Intelligence Platform
 
 ![ZimplatsIQ Dashboard Preview](https://img.shields.io/badge/Status-Live%20Demo-gold)
